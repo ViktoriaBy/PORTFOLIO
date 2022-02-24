@@ -27,8 +27,6 @@
   color: white;
 }
 
-
-
 #mainNav .navbar-toggler {
 color: black;
 border: none;
@@ -65,18 +63,16 @@ border: none;
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.5em;
   }
-
- 
 }
 
 
 header.showcase {
   height: 100vh;
- margin-top: -50px;
-    padding-top: calc(6rem + 72px);
-    padding-bottom: 6rem;
-    background-color: #e9edc9;
-  }
+  margin-top: -50px;
+  padding-top: calc(6rem + 72px);
+  padding-bottom: 6rem;
+  background-color: #e9edc9;
+}
   
   header.showcase h1 {
     color: black;
@@ -122,8 +118,6 @@ header.showcase {
    text-decoration: none;
   
  }
-
-
 
   .modal-titel{
     text-align:center;
