@@ -71,6 +71,8 @@ border: none;
 
 
 header.showcase {
+  height: 100vh;
+ margin-top: -50px;
     padding-top: calc(6rem + 72px);
     padding-bottom: 6rem;
     background-color: #e9edc9;
