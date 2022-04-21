@@ -67,7 +67,7 @@ border: none;
 
 
 header.showcase {
-  height: 100vh;
+  height: 110vh;
   margin-top: -50px;
   padding-top: calc(6rem + 72px);
   padding-bottom: 6rem;
@@ -111,13 +111,20 @@ header.showcase {
   color:#ffd60a;
  }
 
- .newestProject{
+ #newestProject{
    list-style-type: none;
    display: inline;
-   padding: 25px;
+   padding: 10px;
    text-decoration: none;
-  
  }
+
+
+
+.bulletpoints{
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Montserrat';
+}
 
   .modal-titel{
     text-align:center;
@@ -127,7 +134,7 @@ header.showcase {
 
 #portfolioLink{
   font-family: 'Montserrat';
-  color:#ffd60a;
+  color:black;
 }
 
 .portfolio {
@@ -158,12 +165,10 @@ header.showcase {
   opacity: 1;
 }
 
-#portfolioLink{
-  font-size: 20px;
-}
 
 #exampleModalLabel{
   margin-top: -35px;
+
 }
 
 #modalHeader{
@@ -172,13 +177,12 @@ header.showcase {
 }
 
 #about{
-  background:#e9edc9;
-}
-
-.skillsSection{
   background-color: white;
 }
 
+#contact{
+  background:#e9edc9;
+}
 
 section {
   padding: 6rem 0;
@@ -250,7 +254,7 @@ hr.gem-light:after {
   font-family: 'Montserrat';
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background: #e9edc9;
+  background: white;
   color: black;
 }
 
